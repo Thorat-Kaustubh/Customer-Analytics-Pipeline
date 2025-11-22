@@ -99,3 +99,69 @@ Exports a professional multi-page PDF containing:
 ![Customer-Analytics-Pipeline](image4.png)
 
 
+## ⚙️ Installation
+
+Follow the steps below to set up the project locally:
+
+1️⃣ Clone the Repository
+git clone https://github.com/YOUR_USERNAME/customer-analytics-pipeline.git
+cd customer-analytics-pipeline
+
+2️⃣ Create a Virtual Environment
+Windows
+python -m venv venv
+venv\Scripts\activate
+
+Mac / Linux
+python3 -m venv venv
+source venv/bin/activate
+
+3️⃣ Install Dependencies
+pip install -r requirements.txt
+
+4️⃣ Add Your Dataset
+
+Place your raw input file (CSV/Excel) inside:
+
+data/raw/
+
+
+For example:
+
+data/raw/online_retail_II.csv
+
+5️⃣ Run the End-to-End Pipeline
+
+This performs:
+✔ RFM Feature Engineering
+✔ KMeans Segmentation
+✔ CLV Label Generation
+✔ Training 7 Regression Models
+✔ Model Comparison
+✔ Exporting Visuals/Models
+
+python main_pipeline.py
+
+6️⃣ Run the Streamlit Dashboard
+
+Launch the modern UI:
+
+streamlit run app.py
+
+7️⃣ Generate PDF Report
+
+Inside the Streamlit app sidebar:
+Click:
+
+📄 Generate PDF Report
+
+A full multi-page analytics report will download automatically.
+
+## ✉️ Contact
+
+If you have questions, feedback, or collaboration ideas, feel free to reach out:
+
+Kaustubh Thorat
+📧 Email: kaustubhthorat07@gmail.com
+
+
