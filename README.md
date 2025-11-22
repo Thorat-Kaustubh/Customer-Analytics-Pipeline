@@ -88,5 +88,7 @@ Exports a professional multi-page PDF containing:
 
 ---
 
-## 🧱 Architecture
+## 🖼️ Dashboard Preview
+
+
 
