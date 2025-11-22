@@ -162,6 +162,8 @@ A full multi-page analytics report will download automatically.
 If you have questions, feedback, or collaboration ideas, feel free to reach out:
 
 Kaustubh Thorat
+
 📧 Email: kaustubhthorat07@gmail.com
+
 
 
