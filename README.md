@@ -90,5 +90,6 @@ Exports a professional multi-page PDF containing:
 
 ## 🖼️ Dashboard Preview
 
+![Customer-Analytics-Pipeline](image1.png)
 
 
