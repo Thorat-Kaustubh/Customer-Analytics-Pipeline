@@ -92,4 +92,10 @@ Exports a professional multi-page PDF containing:
 
 ![Customer-Analytics-Pipeline](image1.png)
 
+![Customer-Analytics-Pipeline](image2.png)
+
+![Customer-Analytics-Pipeline](image3.png)
+
+![Customer-Analytics-Pipeline](image4.png)
+
 
